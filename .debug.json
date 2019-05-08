@@ -1,0 +1,11 @@
+{
+  "configurations": [
+    {
+      "name": "Debug cmd",
+      "mode": "debug",
+      "cwd": "${workspaceRoot}",
+      "args": [""],
+      "env": {}
+    }
+  ]
+}
